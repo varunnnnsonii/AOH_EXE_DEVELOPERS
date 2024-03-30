@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1022137539958",
+    "project_id": "policeapp-3b94c",
+    "storage_bucket": "policeapp-3b94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022137539958:android:2372aa925a8bb6ba2d6e57",
+        "android_client_info": {
+          "package_name": "Police.app123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022137539958-b61noc3l0vfh1ek6ueemppg7n39eiqqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecPchatjTwUPVOoEstqpjdFXvYu_C_Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022137539958-b61noc3l0vfh1ek6ueemppg7n39eiqqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022137539958-ge595qoolpm5f07v3t1m790orrercclb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022137539958:android:fff693beae6a65c02d6e57",
+        "android_client_info": {
+          "package_name": "com.example.police_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022137539958-b61noc3l0vfh1ek6ueemppg7n39eiqqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecPchatjTwUPVOoEstqpjdFXvYu_C_Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022137539958-b61noc3l0vfh1ek6ueemppg7n39eiqqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022137539958-ge595qoolpm5f07v3t1m790orrercclb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
